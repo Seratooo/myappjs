@@ -1,0 +1,3 @@
+[{"nome":"KFC", "localizacao":"Morro Bento", "distancia":"5 km","cardapio":[{"opcao":"Zinger 5", "preco":3000, "img":"kfcCardapio.png"}, {"opcao":"Zinger 5", "preco":3000, "img":"kfcCardapio.png"}], "img":"kfcImage.jpg", "logo": "kfcLogo.png"},
+  {"nome":"Pizza Hurt", "localizacao":"Nova Vida", "distancia":"3 km","cardapio":[{"opcao":"Pizza 1", "preco":2500, "img":"pizzaHurtCardapio.jpg"}, {"opcao":"Pizza 2", "preco":3000, "img":"pizzaHurtCardapio.jpg"}], "img":"pizzaHurtImage.jpg", "logo": "pizzaHurtLogo.jpg"},
+  {"nome":"H3", "localizacao":"Talatona", "distancia":"300 m","cardapio":[{"opcao":"Hamburguer 1", "preco":5000, "img":"kfcCardapio.png"}, {"opcao":"Hamburguer 2", "preco":5000, "img":"kfcCardapio.png"}], "img":"kfcImage.jpg", "logo": "kfcLogo.png"}]
